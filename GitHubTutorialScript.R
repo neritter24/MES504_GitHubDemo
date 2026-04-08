@@ -1,5 +1,3 @@
-# Save this R script as a new file: "GitHubTutorialScript_YOURNAME.R"
-
 #INSERT YOUR NAME HERE
 #INSERT DATE HERE
 
@@ -7,7 +5,7 @@
 rm(list = ls())
 
 #load packages
-install.packages("learnr")
+#install.packages("learnr")
 library(learnr)
 
 #Generate random praise
