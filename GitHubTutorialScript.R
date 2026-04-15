@@ -1,5 +1,5 @@
-#INSERT YOUR NAME HERE
-#INSERT DATE HERE
+#Natalie Ritter
+#April 15th 2026
 
 #clear my workspace
 rm(list = ls())
